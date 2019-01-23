@@ -1,7 +1,6 @@
 let time = window.setInterval(getTime, 1000); /* check every second so every hand is updated timely */
 
 function getTime() {
-    
     let date = new Date();
     let seconds = date.getSeconds();
     let seconds_degree = seconds * (360 / 60) + 90; /* convert seconds to equivalent degree in a circle */
