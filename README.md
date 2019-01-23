@@ -12,6 +12,7 @@ implementation and/or get a hint.</p></p>
 </ol>
 
 <h2>Project 2: JS+CSS Clock</h2>
+<a href="https://codepen.io/rrogerthat/pen/bzdWwo" target="_blank">Live App</a>
 
 <h3>Skills learned:</h3>
 <ol>
