@@ -12,11 +12,21 @@ implementation and/or get a hint.</p></p>
 </ol>
 
 <h2>Project 2: JS+CSS Clock</h2>
-<a href="https://codepen.io/rrogerthat/pen/bzdWwo" target="_blank">Live App</a>
+<a href="https://codepen.io/rrogerthat/phttps://codepen.io/rrogerthat/pen/rPOmdozdWwo" target="_blank">Live App</a>
 
 <h3>Skills learned:</h3>
 <ol>
 <li>Working with time in Javascript.</li>
 <li>Converting time to its equavalent degrees in a circle.</li>
 <li>Making sure time shown is equavalent to its degree in a circle.</li>
+</ol>
+
+<h2>Project 2: CSS Variables</h2>
+<a href="https://codepen.io/rrogerthat/pen/rPOmdo" target="_blank">Live App</a>
+
+<h3>Skills learned:</h3>
+<ol>
+<li>CSS Variables and updating them through Javascript.</li>
+<li>DOM traversal & manipulation through vanilla JS.</li>
+<li>Following best practices for clean, dynamic code using DRY method.</li>
 </ol>
