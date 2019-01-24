@@ -5,10 +5,14 @@
   <title>JS + CSS Clock</title>
 </head>
 <body>
-
-
+<a href=""></a>
+    
     <div class="clock">
       <div class="clock-face">
+        <div class="time twelve">12</div>
+        <div class="time six">6</div>
+        <div class="time three">3</div>
+        <div class="time nine">9</div>
         <div class="hand hour-hand"></div>
         <div class="hand min-hand"></div>
         <div class="hand second-hand"></div>
@@ -71,17 +75,41 @@
 
     .second-hand {
       background: #4C4C4C;
+      height: 3px;
     }
 
     .min-hand {
       background: #4C4C4C;
-      height: 4px;;
+      height: 5px;;
     }
 
     .hour-ahnd {
       height: 8px;
     }
 
+    .time {
+      color: white;
+      font-weight: bold;
+      font-size: 30px;
+    }
+
+    .six {
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+    }
+
+    .three {
+      position: absolute;
+      top: 50%;
+      right: 0;
+    }
+
+    .nine {
+      position: absolute;
+      top: 50%;
+      left: 0;
+    }
 
   </style>
 
