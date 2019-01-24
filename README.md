@@ -21,7 +21,7 @@ implementation and/or get a hint.</p></p>
 <li>Making sure time shown is equavalent to its degree in a circle.</li>
 </ol>
 
-<h2>Project 2: CSS Variables</h2>
+<h2>Project 3: CSS Variables</h2>
 <a href="https://codepen.io/rrogerthat/pen/rPOmdo" target="_blank">Live App</a>
 
 <h3>Skills learned:</h3>
