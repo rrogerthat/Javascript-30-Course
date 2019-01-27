@@ -3,6 +3,7 @@
 implementation and/or get a hint.</p></p>
 
 <h3>Project 1: Drum Kit</h3>
+<a href="https://repl.it/@RogerH1/JS30-DrumKitProject1?language=html&folderId=" target="_blank">Live App</a>
 
 <h4>Skills learned:</h4>
 <ol>
