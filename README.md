@@ -31,3 +31,6 @@ implementation and/or get a hint.</p></p>
 <li>DOM traversal & manipulation through vanilla JS.</li>
 <li>Following best practices for clean, dynamic code using DRY method.</li>
 </ol>
+
+<h3>Project 4: Array Cardio Day 1</h3>
+<p>Practiced various array methods on short exercises along with some DOM traversals.</p>
