@@ -34,3 +34,14 @@ implementation and/or get a hint.</p></p>
 
 <h3>Project 4: Array Cardio Day 1</h3>
 <p>Practiced various array methods on short exercises along with some DOM traversals.</p>
+
+<h3>Project 5: Flex Panels Image Gallery</h3>
+<a href="https://codepen.io/rrogerthat/pen/PVGvpx" target="_blank">Live App</a>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>CSS property- flex grow</li>
+<li>CSS transform property and its translate function</li>
+<li>JS event listener "transitionend"</li>
+<li>DOM classList property</li>
+</ol>
