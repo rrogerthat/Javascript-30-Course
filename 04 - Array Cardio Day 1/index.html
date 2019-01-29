@@ -101,14 +101,20 @@
       let counter = {};
 
       for (let i = 0; i < data.length; i++) {
-        let transportation = data[i];
-        if ( counter.hasOwnProperty(transportation) ) {
-          counter[transportation]++;
-        }
-        else counter[transportation] = 1;
+        let transportation = data[i];           
+        //ternary operator instead of if/else
+        counter.hasOwnProperty(transportation) ? counter[transportation]++ : counter[transportation] = 1; 
       }
       return counter;
     }
+
+    const transportation = data.reduce(function(obj, item) {
+      if (!obj[item]) {
+        obj(item) = 0;
+      }
+      obj[item]++;
+      return obj;
+    }, {});
 
   </script>
 </body>
