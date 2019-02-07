@@ -45,3 +45,15 @@ implementation and/or get a hint.</p></p>
 <li>JS event listener "transitionend"</li>
 <li>DOM classList property</li>
 </ol>
+
+<h3>Project 6: Ajax Type Ahead</h3>
+<a href="https://codepen.io/rrogerthat/pen/zePjpr" target="_blank">Live App</a>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>Ajax request with Fetch API</li>
+<li>Importance of let variables being block scoped</li>
+<li>JS promises</li>
+<li>regex constructor function for regex patterns that are not fixed</li>
+<li>More: My notes on AJAX saved as Word doc under folder 6</li>
+</ol>
