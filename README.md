@@ -57,3 +57,10 @@ implementation and/or get a hint.</p></p>
 <li>regex constructor function for regex patterns that are not fixed</li>
 <li>More: My notes on AJAX saved as Word doc under folder 6</li>
 </ol>
+
+<h3>Project 7: Array Cardio Day 2</h3>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>Various array methods</li>
+</ol>
