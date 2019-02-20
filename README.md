@@ -61,6 +61,4 @@ implementation and/or get a hint.</p></p>
 <h3>Project 7: Array Cardio Day 2</h3>
 
 <h4>Skills learned:</h4>
-<ol>
-<li>Various array methods</li>
-</ol>
+<p>Various array methods</p>
