@@ -62,3 +62,13 @@ implementation and/or get a hint.</p></p>
 
 <h4>Skills learned:</h4>
 <p>Various array methods</p>
+
+<h3>Project 7: Having fun with HTML5 Canvas</h3>
+<a href="https://codepen.io/rrogerthat/pen/GzaYYv" target="_blank">Live App</a>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>HTML5 Canvas draw methods</li>
+<li>Making dynamic colors and sizes to drawings thru variables and JS flags</li>
+<li>JS mouse event listeners & mouse coordinates relative to canvas- using a flag to draw only when mouse is pressed down</li>
+</ol>
