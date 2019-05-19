@@ -77,3 +77,13 @@ implementation and/or get a hint.</p></p>
 
 <h4>Skills learned:</h4>
 <p>Various console methods that are displayed under Dev Tools</p>
+
+<h3>Project 15: Local Storage</h3>
+<a href="https://codepen.io/rrogerthat/pen/ywEeKw" target="_blank">Live App</a>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>Saving to browser's local storage</li>
+<li>Event delegation to parent (UL) from list items</li>
+<li>Using data attributes as references</li>
+</ol>
