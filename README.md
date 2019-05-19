@@ -78,6 +78,17 @@ implementation and/or get a hint.</p></p>
 <h4>Skills learned:</h4>
 <p>Various console methods that are displayed under Dev Tools</p>
 
+<h3>Project 11: Custom Video Player</h3>
+<a href="https://codepen.io/rrogerthat/pen/pmrpMr" target="_blank">Live App</a>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>HTML Video DOM methods</li>
+<li>Using input elements to dynamically change the volume and playback rate of video</li>
+<li>Change the video's current play duration using event listeners and its available DOM methods</li>
+<li>Using CSS properties: flex-basis, offsetX, offsetWidth</li>
+</ol>
+
 <h3>Project 15: Local Storage</h3>
 <a href="https://codepen.io/rrogerthat/pen/ywEeKw" target="_blank">Live App</a>
 
