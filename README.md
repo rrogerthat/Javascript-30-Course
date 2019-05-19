@@ -79,7 +79,7 @@ implementation and/or get a hint.</p></p>
 <p>Various console methods that are displayed under Dev Tools</p>
 
 <h3>Project 11: Custom Video Player</h3>
-<p>App is currently buggy when uploaded to repl.it so won't post a link to there.</p>
+<p>App is currently buggy when uploaded to repl.it so won't post a link to there but works perfectly locally</p>
 
 <h4>Skills learned:</h4>
 <ol>
