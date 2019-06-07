@@ -89,6 +89,16 @@ implementation and/or get a hint.</p></p>
 <li>Using CSS properties: flex-basis, offsetX, offsetWidth</li>
 </ol>
 
+<h3>Project 12: Key Sequence Detection</h3>
+<a href="https://repl.it/@RogerH1/JS30-Key-Sequence-Detection" target="_blank">Live App</a>
+<p>How to use: in code editor's browser window, type sequence of code "wesbos". Then in console tab, you should get a message telling that you entered the right code. If not, you would still see the sequence of code you've typed.</p>
+
+<h4>Skills learned:</h4>
+<ol>
+<li>Keyboard event listeners</li>
+<li>Creating a key sequence detection by using Javascript's splice method</li>
+</ol>
+
 <h3>Project 15: Local Storage</h3>
 <a href="https://codepen.io/rrogerthat/pen/ywEeKw" target="_blank">Live App</a>
 
