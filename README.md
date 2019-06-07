@@ -1,6 +1,5 @@
 <h1>Wes Bos' JS 30 Course</h1>
-<p>For each project each feature completed by myself, as best as possible, before continuing his video to see his
-implementation and/or get a hint.</p></p>
+<p>In this course, I follow individual tutorials provided by instructor Wes Bos in which I am to complete a total of 30 Javascript projects. With each project, I learn from the instructional videos provided, look up and research important JS methods used to get a better understanding, and in some parts I challenge myself to complete the code on my own before proceding with the instructor's code implementation.</p>
 
 <h3>Project 1: Drum Kit</h3>
 <a href="https://repl.it/@RogerH1/JS30-DrumKitProject1?language=html&folderId=" target="_blank">Live App</a>
