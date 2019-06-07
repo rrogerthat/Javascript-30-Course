@@ -91,7 +91,7 @@ implementation and/or get a hint.</p></p>
 
 <h3>Project 12: Key Sequence Detection</h3>
 <a href="https://repl.it/@RogerH1/JS30-Key-Sequence-Detection" target="_blank">Live App</a>
-<p>How to use: in code editor's browser window, type sequence of code "wesbos". Then in console tab, you should get a message telling that you entered the right code. If not, you would still see the sequence of code you've typed.</p>
+<p>How to use: First, click the run button. Next, in code editor's browser window, type the sequence of code "wesbos". Then in console tab, you should get a message telling that you entered the right code. If not, you would still see the sequence of code you've typed (last 6 characters).</p>
 
 <h4>Skills learned:</h4>
 <ol>
