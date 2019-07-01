@@ -98,6 +98,17 @@
 <li>Creating a key sequence detection by using Javascript's splice method</li>
 </ol>
 
+<h3>Project 13: Slide in on Scroll</h3>
+<a href="https://codepen.io/rrogerthat/pen/rEJqqq" target="_blank">Live App</a>
+ 
+<h4>Skills learned:</h4>
+<ol>
+<li>Using a helper function to "debounce" functions so that they run only at restricted times which improves web performance</li>
+<li>Listening for window scroll events through the addEventListener method in order to run callback function</li>
+<li>Measuring various object distances using properties such as scrollY, innerHeight, offSetTop, and height</li>
+<li>Using CSS property: transform along with the property values: translate & scale for positioning elements</li>
+</ol>
+
 <h3>Project 15: Local Storage</h3>
 <a href="https://codepen.io/rrogerthat/pen/ywEeKw" target="_blank">Live App</a>
 
