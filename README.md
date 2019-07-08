@@ -109,6 +109,15 @@
 <li>Using CSS property: transform along with the property values: translate & scale for positioning elements</li>
 </ol>
 
+<h3>Project 14: Object and Arrays - Reference vs Copy</h3>
+
+<h4>Skills learned:</h4>
+<h5>Making copies of an array or object so that original array or object does not get mutated</h5>
+<ol>
+<li>Array methods: Slice, concat, ES6 spread, Array.from</li>
+<li>Object methods: Object.assign, ES6 spread</li>
+</ol>
+
 <h3>Project 15: Local Storage</h3>
 <a href="https://codepen.io/rrogerthat/pen/ywEeKw" target="_blank">Live App</a>
 
