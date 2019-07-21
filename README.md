@@ -127,3 +127,13 @@
 <li>Event delegation to parent (UL) from list items</li>
 <li>Using data attributes as references</li>
 </ol>
+
+<h3>Project 16: CSS Text Shadow Mouse Move Effect</h3>
+<a href="https://codepen.io/rrogerthat/pen/WVvqaL" target="_blank">Live App</a>
+<h4>Skills learned:</h4>
+<ol>
+<li>mousemove event</li>
+<li>Working with mousemove event's properties: offsetWidth, offsetHeight, offsetX, offsetY</li>
+<li>Object destructuring</li>
+<li>Working with CSS' textShadow property</li>
+</ol>
