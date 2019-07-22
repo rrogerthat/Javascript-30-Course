@@ -139,6 +139,7 @@
 </ol>
 
 <h3>Project 17: Sort Without Articles</h3>
+<a href="https://codepen.io/rrogerthat/pen/wVKMzO" target="_blank">Live App</a>
 <h4>Skills learned:</h4>
 <ol>
 <li>Using sort method with a helper function so original array does not get mutated</li>
