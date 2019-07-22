@@ -137,3 +137,11 @@
 <li>Object destructuring</li>
 <li>Working with CSS' textShadow property</li>
 </ol>
+
+<h3>Project 17: Sort Without Articles</h3>
+<h4>Skills learned:</h4>
+<ol>
+<li>Using sort method with a helper function so original array does not get mutated</li>
+<li>Splice method</li>
+<li>DOM innerHTML Property</li>
+</ol>
